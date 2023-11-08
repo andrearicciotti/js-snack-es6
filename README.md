@@ -22,7 +22,5 @@ Usiamo i nuovi metodi degli array foreach o filter.
 
 ---
 
-## Algoritmo di svolgimento
 
-- Snack 1
 
